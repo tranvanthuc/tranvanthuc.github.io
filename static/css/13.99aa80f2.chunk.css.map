@@ -1,0 +1,1 @@
+{"version":3,"sources":["/home/thuc/Desktop/project/hellowork_frontend/src/components/Image/style.scss"],"names":[],"mappings":"AAAA,yBACE,gBAAA,CACA,cAAe","file":"13.99aa80f2.chunk.css","sourcesContent":[":local .img {\n  min-height: 200px;\n  min-width: 100%; }\n"]}
